@@ -491,7 +491,7 @@
       "viscosity": "",
       "source": "往复式压缩机，高性能特种配方油，专攻高负荷往复式（活塞）压缩机。具备优异的抗磨保护和高自燃温度",
       "runmei": "S8146 转子冷却液",
-      "application": "专用于极低环境温度下，粘度指数300",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -802,8 +802,8 @@
       "product_en": "Mobil SHC 624",
       "viscosity": "32",
       "source": "",
-      "runmei": "SHC GI 320 全合成工业齿轮油",
-      "application": "类型: 全合成：PAO",
+      "runmei": "",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -814,8 +814,8 @@
       "product_en": "Mobil SHC 626",
       "viscosity": "68",
       "source": "",
-      "runmei": "SHC GI 320 全合成工业齿轮油",
-      "application": "类型: 全合成：PAO",
+      "runmei": "",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -827,7 +827,7 @@
       "viscosity": "100",
       "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 100 全合成工业齿轮油",
-      "application": "类型: 全合成：PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -839,7 +839,7 @@
       "viscosity": "150",
       "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 150 全合成工业齿轮油",
-      "application": "类型: 全合成：PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -851,7 +851,7 @@
       "viscosity": "220",
       "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 220 全合成工业齿轮油",
-      "application": "类型: 全合成：PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -863,7 +863,7 @@
       "viscosity": "320",
       "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 320 全合成工业齿轮油",
-      "application": "类型: 全合成：PAO",
+      "application": "mPAO风电",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -875,7 +875,7 @@
       "viscosity": "460",
       "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 460 全合成工业齿轮油",
-      "application": "类型: 全合成：PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -887,7 +887,7 @@
       "viscosity": "680",
       "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 680 全合成工业齿轮油",
-      "application": "类型: 全合成：PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -899,7 +899,7 @@
       "viscosity": "1000",
       "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 1000 全合成工业齿轮油",
-      "application": "类型: 全合成：PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1031,7 +1031,7 @@
       "viscosity": "460",
       "source": "经典的 PAO 基础工业齿轮油；高性能、长寿命全合成工业齿轮油；高粘度指数、低牵引系数和卓越的抗微点蚀保护",
       "runmei": "Lubemater SHC GI 460 全合成工业齿轮油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1055,7 +1055,7 @@
       "viscosity": "150",
       "source": "PAG型齿轮油，不与矿物油或其他合成油相容； 蜗轮蜗杆齿轮应用，，如用于传送带、升降机、材料搬运设施、压力驱动设备、包装机械、滑雪升降机、搅拌机以及混合器等的齿轮",
       "runmei": "SHC GW 150 全合成涡轮蜗杆油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1067,7 +1067,7 @@
       "viscosity": "220",
       "source": "PAG型齿轮油，不与矿物油或其他合成油相容； 蜗轮蜗杆齿轮应用，，如用于传送带、升降机、材料搬运设施、压力驱动设备、包装机械、滑雪升降机、搅拌机以及混合器等的齿轮",
       "runmei": "SHC GW 220 全合成涡轮蜗杆油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1091,7 +1091,7 @@
       "viscosity": "460",
       "source": "PAG型齿轮油，不与矿物油或其他合成油相容； 蜗轮蜗杆齿轮应用，，如用于传送带、升降机、材料搬运设施、压力驱动设备、包装机械、滑雪升降机、搅拌机以及混合器等的齿轮",
       "runmei": "SHC GW 460 全合成涡轮蜗杆油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1103,7 +1103,7 @@
       "viscosity": "680",
       "source": "PAG型齿轮油，不与矿物油或其他合成油相容； 蜗轮蜗杆齿轮应用，，如用于传送带、升降机、材料搬运设施、压力驱动设备、包装机械、滑雪升降机、搅拌机以及混合器等的齿轮",
       "runmei": "SHC GW 680 全合成涡轮蜗杆油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1234,8 +1234,8 @@
       "product_en": "",
       "viscosity": "460",
       "source": "高粘度矿物基础油，高粘度蒸汽汽缸与蜗轮润滑油",
-      "runmei": "Lubemater SHC GI 100/150/220/320/460/680 全合成工业齿轮油",
-      "application": "PAO",
+      "runmei": "",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1259,7 +1259,7 @@
       "viscosity": "150",
       "source": "矿物型，工业极压齿轮润滑油系列，含有硫 / 磷极压添加剂，具有高承载能力和抗磨损保护能力",
       "runmei": "朗麦EP 150 工业齿轮油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1271,7 +1271,7 @@
       "viscosity": "220",
       "source": "矿物型，工业极压齿轮润滑油系列，含有硫 / 磷极压添加剂，具有高承载能力和抗磨损保护能力",
       "runmei": "朗麦EP 220 工业齿轮油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1295,7 +1295,7 @@
       "viscosity": "460",
       "source": "矿物型，工业极压齿轮润滑油系列，含有硫 / 磷极压添加剂，具有高承载能力和抗磨损保护能力",
       "runmei": "朗麦EP 460 工业齿轮油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1331,7 +1331,7 @@
       "viscosity": "46, 68, 100",
       "source": "矿物型，无灰抗磨液压油，粘度指数97，工业液压系统的“万金油”，广泛用于含有齿轮和轴承的高载荷液压系统",
       "runmei": "Lubemater XV 32/46 低温液压油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1391,7 +1391,7 @@
       "viscosity": "46",
       "source": "三芸基磷酸酯，",
       "runmei": "HS-M 32/46/68 抗磨液压油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1403,7 +1403,7 @@
       "viscosity": "46",
       "source": "水 - 乙二醇型抗燃液压油",
       "runmei": "HFDR 46 磷酸酯抗磨液压油",
-      "application": "PAO",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
