@@ -1,7 +1,7 @@
 {
   "version": "2026-05-21-v1",
   "updatedAt": "2026-05-21",
-  "totalProducts": 220,
+  "totalProducts": 224,
   "products": [
     {
       "brand": "壳牌/Shell",
@@ -801,7 +801,7 @@
       "product_cn": "Mobil SHC 624",
       "product_en": "Mobil SHC 624",
       "viscosity": "32",
-      "source": "",
+      "source": "32#全合成工业齿轮油",
       "runmei": "",
       "application": "",
       "compSpecs": {},
@@ -813,7 +813,7 @@
       "product_cn": "Mobil SHC 626",
       "product_en": "Mobil SHC 626",
       "viscosity": "68",
-      "source": "",
+      "source": "68#全合成工业齿轮油",
       "runmei": "",
       "application": "",
       "compSpecs": {},
@@ -825,7 +825,7 @@
       "product_cn": "Mobil SHC 627",
       "product_en": "Mobil SHC 627",
       "viscosity": "100",
-      "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
+      "source": "100#全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 100 全合成工业齿轮油",
       "application": "",
       "compSpecs": {},
@@ -837,7 +837,7 @@
       "product_cn": "Mobil SHC 629",
       "product_en": "Mobil SHC 629",
       "viscosity": "150",
-      "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
+      "source": "150#全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 150 全合成工业齿轮油",
       "application": "",
       "compSpecs": {},
@@ -849,7 +849,7 @@
       "product_cn": "Mobil SHC 630",
       "product_en": "Mobil SHC 630",
       "viscosity": "220",
-      "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
+      "source": "220#全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 220 全合成工业齿轮油",
       "application": "",
       "compSpecs": {},
@@ -861,7 +861,7 @@
       "product_cn": "Mobil SHC 632",
       "product_en": "Mobil SHC 632",
       "viscosity": "320",
-      "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
+      "source": "320#全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 320 全合成工业齿轮油",
       "application": "mPAO风电",
       "compSpecs": {},
@@ -873,7 +873,7 @@
       "product_cn": "Mobil SHC 634",
       "product_en": "Mobil SHC 634",
       "viscosity": "460",
-      "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
+      "source": "460#全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 460 全合成工业齿轮油",
       "application": "",
       "compSpecs": {},
@@ -885,7 +885,7 @@
       "product_cn": "Mobil SHC 636",
       "product_en": "Mobil SHC 636",
       "viscosity": "680",
-      "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
+      "source": "680#全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 680 全合成工业齿轮油",
       "application": "",
       "compSpecs": {},
@@ -897,7 +897,7 @@
       "product_cn": "Mobil SHC 639",
       "product_en": "Mobil SHC 639",
       "viscosity": "1000",
-      "source": "全合成工业齿轮油，封闭式齿轮与轴承润滑油",
+      "source": "1000#全合成工业齿轮油，封闭式齿轮与轴承润滑油",
       "runmei": "Lubemater SHC GI 1000 全合成工业齿轮油",
       "application": "",
       "compSpecs": {},
@@ -1219,7 +1219,7 @@
       "brand": "美孚/Mobil",
       "category": "齿轮油",
       "product_cn": "美孚喷雾齿轮油”MS系列",
-      "product_en": "Mobilgear™ MS Series",
+      "product_en": "Mobilgear MS Series",
       "viscosity": "100, 320, 460",
       "source": "矿物型，油气润滑，用于需要油雾润滑系统的机床导轨、螺杆、高速或低速轴承、工业齿轮（如冷却塔齿轮箱）、运行泵及蒸汽涡轮等",
       "runmei": "Lubemater ST-OAM 220/320 油气润滑剂",
@@ -1521,8 +1521,8 @@
       "product_cn": "壳牌可耐压 S4 GX 150/220/320/460/680",
       "product_en": "",
       "viscosity": "VG 150 / VG 220 / VG 320 / VG 460 / VG 680",
-      "source": "全合成基；运动粘度150/220/320/460/680cSt@40°C；VI~158-170；密度0.861-0.883kg/L；倾点-45~-33°C；用于严苛重载齿轮，长寿命",
-      "runmei": "OG-60 CSF 45",
+      "source": "传统PAO型齿轮油；运动粘度150/220/320/460/680cSt@40°C；VI~158-170；密度0.861-0.883kg/L；倾点-45~-33°C；用于严苛重载齿轮，长寿命",
+      "runmei": "Lubemater SHC GI 100/150/220/320/460/680 全合成工业齿轮油",
       "application": "PAO齿轮油，矿用电动轮",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1534,7 +1534,7 @@
       "product_en": "",
       "viscosity": "VG 150 / VG 220 / VG 320 / VG 460 / VG 680",
       "source": "聚乙二醇 (PAG) 合成基础油；运动粘度150/220/320/460/680cSt@40°C；用于蜗轮蜗杆齿轮箱，低摩擦系数",
-      "runmei": "Lubemater SHC GI 150/220/320/460/680 全合成工业齿轮油",
+      "runmei": "Lubemater SHC GW 150/220/320/460/680全合成蜗轮蜗杆油",
       "application": "PAO齿轮油，矿用电动轮",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1542,11 +1542,11 @@
     {
       "brand": "壳牌/Shell",
       "category": "齿轮油",
-      "product_cn": "壳牌可耐压S4 Wheel",
+      "product_cn": "壳牌可耐压S4 Wheel 460",
       "product_en": "",
-      "viscosity": "VG 460 / VG 680",
-      "source": "全合成；运动粘度460/680cSt@40°C；VI~160+；用于齿轮箱/轮毂轴承润滑，长寿命",
-      "runmei": "Lubemater SHC GW 150/220/320/460/680全合成蜗轮蜗杆油",
+      "viscosity": "460",
+      "source": "合成烃全合成；运动粘度460cSt@40°C；VI~160+；用于齿轮箱/轮毂轴承润滑，长寿命",
+      "runmei": "Lubemater SHC GI 460 全合成工业齿轮油",
       "application": "PAO齿轮油，矿用电动轮",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1557,8 +1557,8 @@
       "product_cn": "壳牌可耐压 S5 Wind 320",
       "product_en": "",
       "viscosity": "320",
-      "source": "(PAO) 风电全合成基础油",
-      "runmei": "Lubemater SHC GI 460/680 全合成工业齿轮油",
+      "source": "mPAO 风电齿轮油油，主齿轮箱润滑",
+      "runmei": "Lubemater CF-20 320 风电齿轮油",
       "application": "风电",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1570,7 +1570,7 @@
       "product_en": "",
       "viscosity": "1000",
       "source": "重负荷合成烃基础油，拥有极佳的负载传递和抗微点蚀保护",
-      "runmei": "Lubemater CF-20 320 风电齿轮油",
+      "runmei": "Lubemater SHC GI 1000 全合成工业齿轮油",
       "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1582,7 +1582,7 @@
       "product_en": "Shell Omala S3 GP 460",
       "viscosity": "460",
       "source": "矿物基础油，极压，应对高冲击负荷",
-      "runmei": "Lubemater SHC GI 1000 全合成工业齿轮油",
+      "runmei": "SHP EP 680 工业齿轮油",
       "application": "高极压性能的应用，粘指98，烧结负荷500kg",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1594,7 +1594,7 @@
       "product_en": "Shell Omala S2 GX 68/100/150",
       "viscosity": "VG 150 / VG 220 / VG 320 / VG 460 / VG 680",
       "source": "矿物基础油，极压,VI~97-100；密度0.891-0.904kg/L；用于封闭式工业齿轮箱，FZG>12级",
-      "runmei": "Lubemater SHP EP 460/680 工业齿轮油",
+      "runmei": "EP 68/100/150/220/320/460/680 工业齿轮油",
       "application": "极压（EP）润滑油",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1605,7 +1605,7 @@
       "product_cn": "壳牌可耐压 S2 G",
       "product_en": "Shell Omala S2 G 68/100/150/220/320/460/680",
       "viscosity": "68, 100, 150, 220, 320, 460, 680",
-      "source": "矿物基础油，极压",
+      "source": "矿物基础油，极压,VI~97-100；密度0.891-0.904kg/L；用于封闭式工业齿轮箱，FZG>12级",
       "runmei": "EP 68/100/150/220/320/460/680 工业齿轮油",
       "application": "",
       "compSpecs": {},
@@ -1629,8 +1629,56 @@
       "product_cn": "壳牌齿轮油 S1 G 150 / 220 / 320 / 460",
       "product_en": "Shell Gear Oil S1 G 150 / 220 / 320 / 460",
       "viscosity": "150, 220, 320, 460",
-      "source": "",
-      "runmei": "Lubemater L-CKC 220/320/460/680  中负荷工业齿轮油",
+      "source": "CKD系列，重负荷工业齿轮油",
+      "runmei": "L-CKD 150/220/320/460/680  重负荷工业齿轮油",
+      "application": "",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "壳牌/Shell",
+      "category": "齿轮油",
+      "product_cn": "壳牌齿轮油 S1 G 150",
+      "product_en": "Shell Gear Oil S1 G 150",
+      "viscosity": "150",
+      "source": "CKD系列，重负荷工业齿轮油",
+      "runmei": "L-CKD 150 重负荷工业齿轮油",
+      "application": "",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "壳牌/Shell",
+      "category": "齿轮油",
+      "product_cn": "壳牌齿轮油 S1 G 220",
+      "product_en": "Shell Gear Oil S1 G 220",
+      "viscosity": "220",
+      "source": "CKD系列，重负荷工业齿轮油",
+      "runmei": "L-CKD 220 重负荷工业齿轮油",
+      "application": "",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "壳牌/Shell",
+      "category": "齿轮油",
+      "product_cn": "壳牌齿轮油 S1 G 320",
+      "product_en": "Shell Gear Oil S1 G 320",
+      "viscosity": "320",
+      "source": "CKD系列，重负荷工业齿轮油",
+      "runmei": "L-CKD 320 重负荷工业齿轮油",
+      "application": "",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "壳牌/Shell",
+      "category": "齿轮油",
+      "product_cn": "壳牌齿轮油 S1 G 460",
+      "product_en": "Shell Gear Oil S1 G 460",
+      "viscosity": "460",
+      "source": "CKD系列，重负荷工业齿轮油",
+      "runmei": "L-CKD 460 重负荷工业齿轮油",
       "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -2642,6 +2690,863 @@
       "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
+    }
+  ],
+  "runmeiCatalog": [
+    {
+      "series": "齿轮箱清洗油",
+      "product_cn": "Lubemater CF-10 150 风电专用清洗油",
+      "packaging": "18L / 200L",
+      "industry": "风电",
+      "application_site": "换油清洗",
+      "features": "和市场主流齿轮油兼容\n具备风电齿轮油基础性能",
+      "notes": "换油前设备冲洗"
+    },
+    {
+      "series": "齿轮箱清洗油",
+      "product_cn": "Lubemater CF-10 320 风电专用清洗油",
+      "packaging": "18L / 200L",
+      "industry": "风电",
+      "application_site": "换油清洗",
+      "features": "和市场主流齿轮油兼容\n具备风电齿轮油基础性能",
+      "notes": "换油前设备冲洗"
+    },
+    {
+      "series": "风电齿轮油",
+      "product_cn": "Lubemater CF-20 150 风电齿轮油",
+      "packaging": "18L/200L/1000L",
+      "industry": "风电",
+      "application_site": "风电机组齿轮箱",
+      "features": "抗磨损和抗微点蚀能力\n优异粘温性能和宽温工作能力\n出色的抗氧化性能与长寿命",
+      "notes": "320：主齿箱\n150/220：偏航变桨"
+    },
+    {
+      "series": "风电齿轮油",
+      "product_cn": "Lubemater CF-20 220 风电齿轮油",
+      "packaging": "18L/200L/1000L",
+      "industry": "风电",
+      "application_site": "风电机组齿轮箱",
+      "features": "抗磨损和抗微点蚀能力\n优异粘温性能和宽温工作能力\n出色的抗氧化性能与长寿命",
+      "notes": "320：主齿箱\n150/220：偏航变桨"
+    },
+    {
+      "series": "风电齿轮油",
+      "product_cn": "Lubemater CF-20 320 风电齿轮油",
+      "packaging": "18L/200L/1000L",
+      "industry": "风电",
+      "application_site": "风电机组齿轮箱",
+      "features": "抗磨损和抗微点蚀能力\n优异粘温性能和宽温工作能力\n出色的抗氧化性能与长寿命",
+      "notes": "320：主齿箱\n150/220：偏航变桨"
+    },
+    {
+      "series": "抗燃液压油（高性能）",
+      "product_cn": "HFDU 46 高性能合成抗燃液压油",
+      "packaging": "170kg",
+      "industry": "冶金、电力、煤矿、压铸",
+      "application_site": "抗燃、高压、对润滑性有要求的液压设备",
+      "features": "兼具抗燃/润滑性",
+      "notes": "天然酯"
+    },
+    {
+      "series": "抗燃液压油（高性能）",
+      "product_cn": "HFDU 68 高性能合成抗燃液压油",
+      "packaging": "170kg",
+      "industry": "冶金、电力、煤矿、压铸",
+      "application_site": "抗燃、高压、对润滑性有要求的液压设备",
+      "features": "兼具抗燃/润滑性",
+      "notes": "天然酯"
+    },
+    {
+      "series": "抗燃液压油（全合成）",
+      "product_cn": "HFDU 46 全合成型抗燃液压油",
+      "packaging": "170kg",
+      "industry": "冶金、电力、煤矿、压铸",
+      "application_site": "抗燃、高压、对润滑性有要求的液压设备",
+      "features": "更优异的抗燃/润滑性",
+      "notes": "合成酯"
+    },
+    {
+      "series": "抗燃液压油（全合成）",
+      "product_cn": "HFDU 68 全合成型抗燃液压油",
+      "packaging": "170kg",
+      "industry": "冶金、电力、煤矿、压铸",
+      "application_site": "抗燃、高压、对润滑性有要求的液压设备",
+      "features": "更优异的抗燃/润滑性",
+      "notes": "合成酯"
+    },
+    {
+      "series": "抗燃液压液（HFW）",
+      "product_cn": "HFW 46 水-乙二醇抗燃液压液",
+      "packaging": "200kg",
+      "industry": "冶金、电力、煤矿、压铸",
+      "application_site": "炼焦炉门、压铸机、连铸机、热轧机、煤矿液压支柱等有明火、中低压系统",
+      "features": "极佳抗燃性\n抗磨一般，高负载下需注意",
+      "notes": "乙二醇"
+    },
+    {
+      "series": "抗燃液压液（HFC）",
+      "product_cn": "HFC 46 合成抗燃液压液",
+      "packaging": "200kg",
+      "industry": "冶金、电力、煤矿、压铸",
+      "application_site": "炼焦炉门、压铸机、连铸机、热轧机、煤矿液压支柱等有明火、中低压系统",
+      "features": "极佳抗燃性\n对环境和人体更友好",
+      "notes": "丙三醇"
+    },
+    {
+      "series": "抗磨液压油 HM",
+      "product_cn": "L-HM 32 抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "工程机械、数控机床等设备的叶片泵、柱塞泵和齿轮泵液压系统",
+      "features": "极压抗磨性、良好的抗乳化性、防锈性以及抗泡性和空气释放值\n出色的抗氧化安定性和热稳定性",
+      "notes": "Ⅰ类"
+    },
+    {
+      "series": "抗磨液压油 HM",
+      "product_cn": "L-HM 46 抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "工程机械、数控机床等设备的叶片泵、柱塞泵和齿轮泵液压系统",
+      "features": "极压抗磨性、良好的抗乳化性、防锈性以及抗泡性和空气释放值\n出色的抗氧化安定性和热稳定性",
+      "notes": "Ⅰ类"
+    },
+    {
+      "series": "抗磨液压油 HM",
+      "product_cn": "L-HM 68 抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "工程机械、数控机床等设备的叶片泵、柱塞泵和齿轮泵液压系统",
+      "features": "极压抗磨性、良好的抗乳化性、防锈性以及抗泡性和空气释放值\n出色的抗氧化安定性和热稳定性",
+      "notes": "Ⅰ类"
+    },
+    {
+      "series": "抗磨液压油 HS-M",
+      "product_cn": "HS-M 32 抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "工程机械、数控机床等设备的液压系统",
+      "features": "提升的综合性能，主打抗磨保护，适合常温环境",
+      "notes": "Ⅱ类"
+    },
+    {
+      "series": "抗磨液压油 HS-M",
+      "product_cn": "HS-M 46 抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "工程机械、数控机床等设备的液压系统",
+      "features": "提升的综合性能，主打抗磨保护，适合常温环境",
+      "notes": "Ⅱ类"
+    },
+    {
+      "series": "抗磨液压油 HS-M",
+      "product_cn": "HS-M 68 抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "工程机械、数控机床等设备的液压系统",
+      "features": "提升的综合性能，主打抗磨保护，适合常温环境",
+      "notes": "Ⅱ类"
+    },
+    {
+      "series": "抗磨液压油 HV低温",
+      "product_cn": "L-HV 32 低温抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "露天、寒区作业的工程机械、矿山机械、船舶起重机等液压系统",
+      "features": "具备抗磨性的同时，更强化了卓越的低温流动性和粘温特性，专为低温或温差大的环境设计",
+      "notes": "Ⅱ类"
+    },
+    {
+      "series": "抗磨液压油 HV低温",
+      "product_cn": "L-HV 46 低温抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "露天、寒区作业的工程机械、矿山机械、船舶起重机等液压系统",
+      "features": "具备抗磨性的同时，更强化了卓越的低温流动性和粘温特性，专为低温或温差大的环境设计",
+      "notes": "Ⅱ类"
+    },
+    {
+      "series": "抗磨液压油 HV低温",
+      "product_cn": "L-HV 68 低温抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "露天、寒区作业的工程机械、矿山机械、船舶起重机等液压系统",
+      "features": "具备抗磨性的同时，更强化了卓越的低温流动性和粘温特性，专为低温或温差大的环境设计",
+      "notes": "Ⅱ类"
+    },
+    {
+      "series": "长寿命液压油",
+      "product_cn": "Lubemater XV 32 低温液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "工作在巨大温差下的各种液压循环系统",
+      "features": "卓越的综合性能：抗磨、防锈、抗泡、抗乳化\n优异的稳定性：优秀的剪切稳定性、抗氧化和抗水解\n极佳的粘温特性与低温流动性，倾点≤-55℃",
+      "notes": "PAO"
+    },
+    {
+      "series": "长寿命液压油",
+      "product_cn": "Lubemater XV 68 低温液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "工作在巨大温差下的各种液压循环系统",
+      "features": "卓越的综合性能：抗磨、防锈、抗泡、抗乳化\n优异的稳定性：优秀的剪切稳定性、抗氧化和抗水解\n极佳的粘温特性与低温流动性，倾点≤-55℃",
+      "notes": "PAO"
+    },
+    {
+      "series": "无灰液压油",
+      "product_cn": "L-HMS 46 无灰抗磨液压油",
+      "packaging": "170kg",
+      "industry": "冶金、钢铁、火电等通用领域",
+      "application_site": "高精度、敏感元件、特殊环境设等对油品清洁度和部件敏感性有严苛要求的液压系统",
+      "features": "无灰/无锌配方，避免损坏对锌敏感的部件（如铜合金），减少油泥生成，保持系统清洁\n优良的过滤性与抗乳化性：能迅速与水分离，有效防止过滤系统堵塞",
+      "notes": "矿物\n不含ZDDP"
+    },
+    {
+      "series": "CKC工业齿轮油",
+      "product_cn": "CKC 100 中负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "冶金、矿山、水泥、建材",
+      "application_site": "中负荷齿轮，如矿山减速机的、正齿轮、斜齿轮",
+      "features": "良好的极压抗磨性\n热氧化安定性\n防锈防腐\n抗乳化性",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "CKC工业齿轮油",
+      "product_cn": "CKC 150 中负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "冶金、矿山、水泥、建材",
+      "application_site": "中负荷齿轮，如矿山减速机的、正齿轮、斜齿轮",
+      "features": "良好的极压抗磨性\n热氧化安定性\n防锈防腐\n抗乳化性",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "CKC工业齿轮油",
+      "product_cn": "CKC 220 中负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "冶金、矿山、水泥、建材",
+      "application_site": "中负荷齿轮，如矿山减速机的、正齿轮、斜齿轮",
+      "features": "良好的极压抗磨性\n热氧化安定性\n防锈防腐\n抗乳化性",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "CKC工业齿轮油",
+      "product_cn": "CKC 320 中负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "冶金、矿山、水泥、建材",
+      "application_site": "中负荷齿轮，如矿山减速机的、正齿轮、斜齿轮",
+      "features": "良好的极压抗磨性\n热氧化安定性\n防锈防腐\n抗乳化性",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "CKC工业齿轮油",
+      "product_cn": "CKC 460 中负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "冶金、矿山、水泥、建材",
+      "application_site": "中负荷齿轮，如矿山减速机的、正齿轮、斜齿轮",
+      "features": "良好的极压抗磨性\n热氧化安定性\n防锈防腐\n抗乳化性",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "CKC工业齿轮油",
+      "product_cn": "CKC 680 中负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "冶金、矿山、水泥、建材",
+      "application_site": "中负荷齿轮，如矿山减速机的、正齿轮、斜齿轮",
+      "features": "良好的极压抗磨性\n热氧化安定性\n防锈防腐\n抗乳化性",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "CKD工业齿轮油",
+      "product_cn": "L-CKD 220 重负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "钢铁、电力、矿山、水泥",
+      "application_site": "高温、重负荷、冲击负荷的苛刻工况的重载齿轮",
+      "features": "比CKC更优的极压抗磨性和热稳定性，适用于更苛刻的工况",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "CKD工业齿轮油",
+      "product_cn": "L-CKD 320 重负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "钢铁、电力、矿山、水泥",
+      "application_site": "高温、重负荷、冲击负荷的苛刻工况的重载齿轮",
+      "features": "比CKC更优的极压抗磨性和热稳定性，适用于更苛刻的工况",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "CKD工业齿轮油",
+      "product_cn": "L-CKD 460 重负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "钢铁、电力、矿山、水泥",
+      "application_site": "高温、重负荷、冲击负荷的苛刻工况的重载齿轮",
+      "features": "比CKC更优的极压抗磨性和热稳定性，适用于更苛刻的工况",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "CKD工业齿轮油",
+      "product_cn": "L-CKD 680 重负荷工业齿轮油",
+      "packaging": "170kg",
+      "industry": "钢铁、电力、矿山、水泥",
+      "application_site": "高温、重负荷、冲击负荷的苛刻工况的重载齿轮",
+      "features": "比CKC更优的极压抗磨性和热稳定性，适用于更苛刻的工况",
+      "notes": "常规矿物"
+    },
+    {
+      "series": "EP工业齿轮油",
+      "product_cn": "朗麦 EP 150 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "各类工业领域，如传送机、搅拌机等",
+      "application_site": "重负荷齿轮箱（正齿轮、伞齿轮），能应对冲击荷载",
+      "features": "更好的承载能力与抗磨损保护",
+      "notes": "矿物·极压"
+    },
+    {
+      "series": "EP工业齿轮油",
+      "product_cn": "朗麦 EP 220 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "各类工业领域，如传送机、搅拌机等",
+      "application_site": "重负荷齿轮箱（正齿轮、伞齿轮），能应对冲击荷载",
+      "features": "更好的承载能力与抗磨损保护",
+      "notes": "矿物·极压"
+    },
+    {
+      "series": "EP工业齿轮油",
+      "product_cn": "朗麦 EP 320 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "各类工业领域，如传送机、搅拌机等",
+      "application_site": "重负荷齿轮箱（正齿轮、伞齿轮），能应对冲击荷载",
+      "features": "更好的承载能力与抗磨损保护",
+      "notes": "矿物·极压"
+    },
+    {
+      "series": "EP工业齿轮油",
+      "product_cn": "朗麦 EP 460 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "各类工业领域，如传送机、搅拌机等",
+      "application_site": "重负荷齿轮箱（正齿轮、伞齿轮），能应对冲击荷载",
+      "features": "更好的承载能力与抗磨损保护",
+      "notes": "矿物·极压"
+    },
+    {
+      "series": "EP工业齿轮油",
+      "product_cn": "朗麦 EP 680 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "各类工业领域，如传送机、搅拌机等",
+      "application_site": "重负荷齿轮箱（正齿轮、伞齿轮），能应对冲击荷载",
+      "features": "更好的承载能力与抗磨损保护",
+      "notes": "矿物·极压"
+    },
+    {
+      "series": "EP工业齿轮油（大粘度）",
+      "product_cn": "Lubemater SHP EP 460 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "各类工业领域",
+      "application_site": "重负荷齿轮箱",
+      "features": "极压抗磨保护",
+      "notes": "矿物·极压"
+    },
+    {
+      "series": "EP工业齿轮油（大粘度）",
+      "product_cn": "Lubemater SHP EP 680 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "各类工业领域",
+      "application_site": "重负荷齿轮箱",
+      "features": "极压抗磨保护",
+      "notes": "矿物·极压"
+    },
+    {
+      "series": "合成工业齿轮油 SHP",
+      "product_cn": "Lubemater SHP XP 150 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "重工机械、矿山机械、水泥建材设备、冶金设备、化工设备等中的重负荷和冲击负荷设备",
+      "features": "优异的粘温性能与宽温适用性\n卓越的热稳定性和抗氧化性\n出色的极压抗磨保护\n良好的抗乳化性和分水性能",
+      "notes": "半合成"
+    },
+    {
+      "series": "合成工业齿轮油 SHP",
+      "product_cn": "Lubemater SHP XP 220 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "重工机械、矿山机械、水泥建材设备、冶金设备、化工设备等中的重负荷和冲击负荷设备",
+      "features": "优异的粘温性能与宽温适用性\n卓越的热稳定性和抗氧化性\n出色的极压抗磨保护\n良好的抗乳化性和分水性能",
+      "notes": "半合成"
+    },
+    {
+      "series": "合成工业齿轮油 SHP",
+      "product_cn": "Lubemater SHP XP 320 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "重工机械、矿山机械、水泥建材设备、冶金设备、化工设备等中的重负荷和冲击负荷设备",
+      "features": "优异的粘温性能与宽温适用性\n卓越的热稳定性和抗氧化性\n出色的极压抗磨保护\n良好的抗乳化性和分水性能",
+      "notes": "半合成"
+    },
+    {
+      "series": "合成工业齿轮油 SHP",
+      "product_cn": "Lubemater SHP XP 460 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "重工机械、矿山机械、水泥建材设备、冶金设备、化工设备等中的重负荷和冲击负荷设备",
+      "features": "优异的粘温性能与宽温适用性\n卓越的热稳定性和抗氧化性\n出色的极压抗磨保护\n良好的抗乳化性和分水性能",
+      "notes": "半合成"
+    },
+    {
+      "series": "合成工业齿轮油 SHP",
+      "product_cn": "Lubemater SHP XP 680 工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "重工机械、矿山机械、水泥建材设备、冶金设备、化工设备等中的重负荷和冲击负荷设备",
+      "features": "优异的粘温性能与宽温适用性\n卓越的热稳定性和抗氧化性\n出色的极压抗磨保护\n良好的抗乳化性和分水性能",
+      "notes": "半合成"
+    },
+    {
+      "series": "全合成工业齿轮油 SHC",
+      "product_cn": "Lubemater SHC GI 100 全合成工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "极端温度环境、重负荷和冲击负荷设备、长寿命、低维护的设备要求的重型设备",
+      "features": "全面提升的、卓越的综合性能",
+      "notes": "合成烃"
+    },
+    {
+      "series": "全合成工业齿轮油 SHC",
+      "product_cn": "Lubemater SHC GI 150 全合成工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "极端温度环境、重负荷和冲击负荷设备、长寿命、低维护的设备要求的重型设备",
+      "features": "全面提升的、卓越的综合性能",
+      "notes": "合成烃"
+    },
+    {
+      "series": "全合成工业齿轮油 SHC",
+      "product_cn": "Lubemater SHC GI 220 全合成工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "极端温度环境、重负荷和冲击负荷设备、长寿命、低维护的设备要求的重型设备",
+      "features": "全面提升的、卓越的综合性能",
+      "notes": "合成烃"
+    },
+    {
+      "series": "全合成工业齿轮油 SHC",
+      "product_cn": "Lubemater SHC GI 320 全合成工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "极端温度环境、重负荷和冲击负荷设备、长寿命、低维护的设备要求的重型设备",
+      "features": "全面提升的、卓越的综合性能",
+      "notes": "合成烃"
+    },
+    {
+      "series": "全合成工业齿轮油 SHC",
+      "product_cn": "Lubemater SHC GI 460 全合成工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "极端温度环境、重负荷和冲击负荷设备、长寿命、低维护的设备要求的重型设备",
+      "features": "全面提升的、卓越的综合性能",
+      "notes": "合成烃"
+    },
+    {
+      "series": "全合成工业齿轮油 SHC",
+      "product_cn": "Lubemater SHC GI 680 全合成工业齿轮油",
+      "packaging": "170kg",
+      "industry": "矿山、冶金、水泥等行业的重型设备",
+      "application_site": "极端温度环境、重负荷和冲击负荷设备、长寿命、低维护的设备要求的重型设备",
+      "features": "全面提升的、卓越的综合性能",
+      "notes": "合成烃"
+    },
+    {
+      "series": "蜗轮蜗杆油 CKE/P",
+      "product_cn": "LMT CKE/P 220蜗轮蜗杆油",
+      "packaging": "170kg",
+      "industry": "通用工业的蜗轮蜗杆减速机",
+      "application_site": "轻中负荷、运行平稳的蜗轮蜗杆副，如普通减速机",
+      "features": "良好的油性、减摩性，成本较低\n适用于轻中负荷、运行平稳的传动",
+      "notes": "矿物\n用于常规工况"
+    },
+    {
+      "series": "蜗轮蜗杆油 SHC GW",
+      "product_cn": "Lubemater SHC GW 150 全合成蜗轮蜗杆油",
+      "packaging": "200kg",
+      "industry": "重工业、通用工业的蜗轮蜗杆减速机",
+      "application_site": "高负荷、强冲击、极温环境下的蜗轮蜗杆，如电梯曳引机、野外重型机械、钢铁水泥设备",
+      "features": "极高的粘度指数、粘温性能优异，宽温适用\n摩擦系数极低、卓越的极压抗磨性\n长寿命",
+      "notes": "PAG\n用于苛刻工况"
+    },
+    {
+      "series": "蜗轮蜗杆油 SHC GW",
+      "product_cn": "Lubemater SHC GW 220 全合成蜗轮蜗杆油",
+      "packaging": "200kg",
+      "industry": "重工业、通用工业的蜗轮蜗杆减速机",
+      "application_site": "高负荷、强冲击、极温环境下的蜗轮蜗杆，如电梯曳引机、野外重型机械、钢铁水泥设备",
+      "features": "极高的粘度指数、粘温性能优异，宽温适用\n摩擦系数极低、卓越的极压抗磨性\n长寿命",
+      "notes": "PAG\n用于苛刻工况"
+    },
+    {
+      "series": "蜗轮蜗杆油 SHC GW",
+      "product_cn": "Lubemater SHC GW 320 全合成蜗轮蜗杆油",
+      "packaging": "200kg",
+      "industry": "重工业、通用工业的蜗轮蜗杆减速机",
+      "application_site": "高负荷、强冲击、极温环境下的蜗轮蜗杆，如电梯曳引机、野外重型机械、钢铁水泥设备",
+      "features": "极高的粘度指数、粘温性能优异，宽温适用\n摩擦系数极低、卓越的极压抗磨性\n长寿命",
+      "notes": "PAG\n用于苛刻工况"
+    },
+    {
+      "series": "蜗轮蜗杆油 SHC GW",
+      "product_cn": "Lubemater SHC GW 460 全合成蜗轮蜗杆油",
+      "packaging": "200kg",
+      "industry": "重工业、通用工业的蜗轮蜗杆减速机",
+      "application_site": "高负荷、强冲击、极温环境下的蜗轮蜗杆，如电梯曳引机、野外重型机械、钢铁水泥设备",
+      "features": "极高的粘度指数、粘温性能优异，宽温适用\n摩擦系数极低、卓越的极压抗磨性\n长寿命",
+      "notes": "PAG\n用于苛刻工况"
+    },
+    {
+      "series": "蜗轮蜗杆油 SHC GW",
+      "product_cn": "Lubemater SHC GW 680 全合成蜗轮蜗杆油",
+      "packaging": "200kg",
+      "industry": "重工业、通用工业的蜗轮蜗杆减速机",
+      "application_site": "高负荷、强冲击、极温环境下的蜗轮蜗杆，如电梯曳引机、野外重型机械、钢铁水泥设备",
+      "features": "极高的粘度指数、粘温性能优异，宽温适用\n摩擦系数极低、卓越的极压抗磨性\n长寿命",
+      "notes": "PAG\n用于苛刻工况"
+    },
+    {
+      "series": "蜗轮蜗杆油 SHC GW",
+      "product_cn": "Lubemater SHC GW 1000 全合成蜗轮蜗杆油",
+      "packaging": "200kg",
+      "industry": "重工业、通用工业的蜗轮蜗杆减速机",
+      "application_site": "高负荷、强冲击、极温环境下的蜗轮蜗杆，如电梯曳引机、野外重型机械、钢铁水泥设备",
+      "features": "极高的粘度指数、粘温性能优异，宽温适用\n摩擦系数极低、卓越的极压抗磨性\n长寿命",
+      "notes": "PAG\n用于苛刻工况"
+    },
+    {
+      "series": "矿物型油气润滑剂 OAM",
+      "product_cn": "Lubemater ST-OAM 220 油气润滑剂",
+      "packaging": "170kg",
+      "industry": "钢铁、冶金、矿山、火电",
+      "application_site": "常规温度和负荷下运行的机床、风机、水泵等设备的轴承润滑",
+      "features": "良好的热稳定性与抗氧化性\n良好的极压抗磨性\n良好的雾化性与流动性",
+      "notes": "矿物"
+    },
+    {
+      "series": "矿物型油气润滑剂 OAM",
+      "product_cn": "Lubemater ST-OAM 320 油气润滑剂",
+      "packaging": "170kg",
+      "industry": "钢铁、冶金、矿山、火电",
+      "application_site": "常规温度和负荷下运行的机床、风机、水泵等设备的轴承润滑",
+      "features": "良好的热稳定性与抗氧化性\n良好的极压抗磨性\n良好的雾化性与流动性",
+      "notes": "矿物"
+    },
+    {
+      "series": "合成型油气润滑剂 OAS",
+      "product_cn": "Lubemater ST-OAS 150 合成油气润滑剂",
+      "packaging": "170kg",
+      "industry": "钢铁、冶金、矿山、火电",
+      "application_site": "高温、低温、高负荷或需要长周期运行的苛刻环境下的滚动轴承、齿轮与链条等",
+      "features": "全面提升的综合性能",
+      "notes": ""
+    },
+    {
+      "series": "合成型油气润滑剂 OAS",
+      "product_cn": "Lubemater ST-OAS 220 合成油气润滑剂",
+      "packaging": "170kg",
+      "industry": "钢铁、冶金、矿山、火电",
+      "application_site": "高温、低温、高负荷或需要长周期运行的苛刻环境下的滚动轴承、齿轮与链条等",
+      "features": "全面提升的综合性能",
+      "notes": ""
+    },
+    {
+      "series": "合成型油气润滑剂 OAS",
+      "product_cn": "Lubemater ST-OAS 320 合成油气润滑剂",
+      "packaging": "170kg",
+      "industry": "钢铁、冶金、矿山、火电",
+      "application_site": "高温、低温、高负荷或需要长周期运行的苛刻环境下的滚动轴承、齿轮与链条等",
+      "features": "全面提升的综合性能",
+      "notes": ""
+    },
+    {
+      "series": "合成型开式齿轮剂",
+      "product_cn": "Lubemater OG-30 CSF 2000 高性能开式齿轮剂",
+      "packaging": "180kg / 50kg",
+      "industry": "水泥、冶金、矿业、化工、火电",
+      "application_site": "球磨机、回转窑、滚筒混料机等中大型开式齿轮装置，尤其适用于苛刻条件",
+      "features": "高粘附性\n极压抗磨性\n防锈防腐性\n良好的渗透性\n抗氧化性与结焦抵抗性，适应高低温变化",
+      "notes": ""
+    },
+    {
+      "series": "合成型开式齿轮剂",
+      "product_cn": "Lubemater OG-30 CSF 3500 高性能开式齿轮剂",
+      "packaging": "180kg / 50kg",
+      "industry": "水泥、冶金、矿业、化工、火电",
+      "application_site": "球磨机、回转窑、滚筒混料机等中大型开式齿轮装置，尤其适用于苛刻条件",
+      "features": "高粘附性\n极压抗磨性\n防锈防腐性\n良好的渗透性\n抗氧化性与结焦抵抗性，适应高低温变化",
+      "notes": ""
+    },
+    {
+      "series": "合成型开式齿轮剂",
+      "product_cn": "Lubemater OG-30 CSF 5000 高性能开式齿轮剂",
+      "packaging": "180kg / 50kg",
+      "industry": "水泥、冶金、矿业、化工、火电",
+      "application_site": "球磨机、回转窑、滚筒混料机等中大型开式齿轮装置，尤其适用于苛刻条件",
+      "features": "高粘附性\n极压抗磨性\n防锈防腐性\n良好的渗透性\n抗氧化性与结焦抵抗性，适应高低温变化",
+      "notes": ""
+    },
+    {
+      "series": "合成型开式齿轮剂",
+      "product_cn": "Lubemater OG-30 CSF 12000 高性能开式齿轮剂",
+      "packaging": "180kg / 50kg",
+      "industry": "水泥、冶金、矿业、化工、火电",
+      "application_site": "球磨机、回转窑、滚筒混料机等中大型开式齿轮装置，尤其适用于苛刻条件",
+      "features": "高粘附性\n极压抗磨性\n防锈防腐性\n良好的渗透性\n抗氧化性与结焦抵抗性，适应高低温变化",
+      "notes": ""
+    },
+    {
+      "series": "合成型开式齿轮剂",
+      "product_cn": "Lubemater OG-60 CSF 15 高性能开式齿轮剂",
+      "packaging": "15:15000 / 30:30000 / 45:36000",
+      "industry": "水泥、冶金、矿业、化工、火电",
+      "application_site": "球磨机、回转窑、滚筒混料机等中大型开式齿轮装置，尤其适用于苛刻条件",
+      "features": "高粘附性\n极压抗磨性\n防锈防腐性\n良好的渗透性\n抗氧化性与结焦抵抗性，适应高低温变化",
+      "notes": ""
+    },
+    {
+      "series": "合成型开式齿轮剂",
+      "product_cn": "Lubemater OG-60 CSF 30 高性能开式齿轮剂",
+      "packaging": "15:15000 / 30:30000 / 45:36000",
+      "industry": "水泥、冶金、矿业、化工、火电",
+      "application_site": "球磨机、回转窑、滚筒混料机等中大型开式齿轮装置，尤其适用于苛刻条件",
+      "features": "高粘附性\n极压抗磨性\n防锈防腐性\n良好的渗透性\n抗氧化性与结焦抵抗性，适应高低温变化",
+      "notes": ""
+    },
+    {
+      "series": "合成型开式齿轮剂",
+      "product_cn": "Lubemater OG-60 CSF 45 高性能开式齿轮剂",
+      "packaging": "15:15000 / 30:30000 / 45:36000",
+      "industry": "水泥、冶金、矿业、化工、火电",
+      "application_site": "球磨机、回转窑、滚筒混料机等中大型开式齿轮装置，尤其适用于苛刻条件",
+      "features": "高粘附性\n极压抗磨性\n防锈防腐性\n良好的渗透性\n抗氧化性与结焦抵抗性，适应高低温变化",
+      "notes": ""
+    },
+    {
+      "series": "合成型开式齿轮剂（聚醚）",
+      "product_cn": "Lubemater OG-90 CSF 10 高性能开式齿轮剂",
+      "packaging": "10:10000 / 17:17000",
+      "industry": "水泥、冶金、矿业、化工、火电",
+      "application_site": "球磨机、回转窑、滚筒混料机等中大型开式齿轮装置",
+      "features": "高粘附性\n极压抗磨性",
+      "notes": "聚醚开齿"
+    },
+    {
+      "series": "合成型开式齿轮剂（聚醚）",
+      "product_cn": "Lubemater OG-90 CSF 17 高性能开式齿轮剂",
+      "packaging": "10:10000 / 17:17000",
+      "industry": "水泥、冶金、矿业、化工、火电",
+      "application_site": "球磨机、回转窑、滚筒混料机等中大型开式齿轮装置",
+      "features": "高粘附性\n极压抗磨性",
+      "notes": "聚醚开齿"
+    },
+    {
+      "series": "矿物型螺杆式空气压缩机油",
+      "product_cn": "Lubemater AIR S3046 空气压缩机油",
+      "packaging": "170kg/15kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "优良的抗氧化\n优良的抗结焦、油泥性能",
+      "notes": "2000h\n3000/4000/6000h"
+    },
+    {
+      "series": "矿物型螺杆式空气压缩机油",
+      "product_cn": "Lubemater AIR S4032 空气压缩机油",
+      "packaging": "170kg/15kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "优良的抗氧化\n优良的抗结焦、油泥性能",
+      "notes": "2000h\n3000/4000/6000h"
+    },
+    {
+      "series": "矿物型螺杆式空气压缩机油",
+      "product_cn": "Lubemater AIR S4046 空气压缩机油",
+      "packaging": "170kg/15kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "优良的抗氧化\n优良的抗结焦、油泥性能",
+      "notes": "2000h\n3000/4000/6000h"
+    },
+    {
+      "series": "矿物型螺杆式空气压缩机油",
+      "product_cn": "Lubemater AIR S6032 空气压缩机油",
+      "packaging": "170kg/15kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "优良的抗氧化\n优良的抗结焦、油泥性能",
+      "notes": "2000h\n3000/4000/6000h"
+    },
+    {
+      "series": "矿物型螺杆式空气压缩机油",
+      "product_cn": "Lubemater AIR S6046 空气压缩机油",
+      "packaging": "170kg/15kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "优良的抗氧化\n优良的抗结焦、油泥性能",
+      "notes": "2000h\n3000/4000/6000h"
+    },
+    {
+      "series": "合成型螺杆式空气压缩机油 PAG",
+      "product_cn": "Lubemater AIR S8032 转子冷却液",
+      "packaging": "200kg/18kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "极佳的抗结焦、油泥性能\n长寿命",
+      "notes": "6000-8000h"
+    },
+    {
+      "series": "合成型螺杆式空气压缩机油 PAG",
+      "product_cn": "Lubemater AIR S8032G 转子冷却液",
+      "packaging": "200kg/18kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "极佳的抗结焦、油泥性能\n长寿命",
+      "notes": "6000-8000h"
+    },
+    {
+      "series": "合成型螺杆式空气压缩机油 PAG",
+      "product_cn": "Lubemater AIR S8046 转子冷却液",
+      "packaging": "200kg/18kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "极佳的抗结焦、油泥性能\n长寿命",
+      "notes": "6000-8000h"
+    },
+    {
+      "series": "合成型螺杆式空气压缩机油 PAG",
+      "product_cn": "Lubemater AIR S32 转子冷却液",
+      "packaging": "200kg/18kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "极佳的抗结焦、油泥性能\n长寿命",
+      "notes": "6000-8000h"
+    },
+    {
+      "series": "合成型螺杆式空气压缩机油 PAG",
+      "product_cn": "Lubemater AIR S32G 转子冷却液",
+      "packaging": "200kg/18kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "极佳的抗结焦、油泥性能\n长寿命",
+      "notes": "6000-8000h"
+    },
+    {
+      "series": "合成型螺杆式空气压缩机油 PAG",
+      "product_cn": "Lubemater AIR S46 转子冷却液",
+      "packaging": "200kg/18kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "极佳的抗结焦、油泥性能\n长寿命",
+      "notes": "6000-8000h"
+    },
+    {
+      "series": "合成型螺杆式空气压缩机油 PAO",
+      "product_cn": "Lubemater AIR S6146 转子冷却液",
+      "packaging": "170kg/15kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "极佳的抗氧化、抗乳化性能\n长寿命",
+      "notes": "6000-8000h"
+    },
+    {
+      "series": "合成型螺杆式空气压缩机油 PAO",
+      "product_cn": "Lubemater AIR S8146 转子冷却液",
+      "packaging": "170kg/15kg",
+      "industry": "工业领域螺杆空压机",
+      "application_site": "螺杆空压机",
+      "features": "极佳的抗氧化、抗乳化性能\n长寿命",
+      "notes": "6000-8000h"
+    },
+    {
+      "series": "工艺气体压缩机油 WS PAG",
+      "product_cn": "MAIJI SPE C2 气体压缩机防护剂 100#",
+      "packaging": "200L",
+      "industry": "气体运输、天然气开采、化学合成等",
+      "application_site": "工艺压缩机",
+      "features": "抗碳氢化合物稀释性\n优异润滑性\n低倾点\n耐腐蚀特性\n长使用寿命",
+      "notes": ""
+    },
+    {
+      "series": "工艺气体压缩机油 WS PAG",
+      "product_cn": "MAIJI SPE C3 气体压缩机防护剂 150#",
+      "packaging": "200L",
+      "industry": "气体运输、天然气开采、化学合成等",
+      "application_site": "工艺压缩机",
+      "features": "抗碳氢化合物稀释性\n优异润滑性\n低倾点\n耐腐蚀特性\n长使用寿命",
+      "notes": ""
+    },
+    {
+      "series": "工艺气体压缩机油",
+      "product_cn": "Lubemater SPE AC100 工艺气体压缩机油",
+      "packaging": "170KG",
+      "industry": "多晶硅",
+      "application_site": "酸性气体工艺压缩",
+      "features": "优异的防腐蚀性能\n良好的抗磨性",
+      "notes": "矿物型"
+    },
+    {
+      "series": "防锈汽轮机油",
+      "product_cn": "Lubemater TSA 32 长寿命汽轮机油",
+      "packaging": "170kg",
+      "industry": "电力",
+      "application_site": "蒸汽轮机、燃气轮机、水轮发电机组（滑动轴承、减速齿轮、调速系统）",
+      "features": "具备优异的氧化安定性和抗乳化性",
+      "notes": "三类油\n矿物"
+    },
+    {
+      "series": "防锈汽轮机油",
+      "product_cn": "Lubemater TSA 46 长寿命汽轮机油",
+      "packaging": "170kg",
+      "industry": "电力",
+      "application_site": "蒸汽轮机、燃气轮机、水轮发电机组（滑动轴承、减速齿轮、调速系统）",
+      "features": "具备优异的氧化安定性和抗乳化性",
+      "notes": "三类油\n矿物"
+    },
+    {
+      "series": "防锈汽轮机油",
+      "product_cn": "Lubemater TSA 68 长寿命汽轮机油",
+      "packaging": "170kg",
+      "industry": "电力",
+      "application_site": "蒸汽轮机、燃气轮机、水轮发电机组（滑动轴承、减速齿轮、调速系统）",
+      "features": "具备优异的氧化安定性和抗乳化性",
+      "notes": "三类油\n矿物"
+    },
+    {
+      "series": "防锈汽轮机油",
+      "product_cn": "朗麦 L-TSA 32 防锈汽轮机油",
+      "packaging": "170kg",
+      "industry": "电力",
+      "application_site": "蒸汽轮机、燃气轮机、水轮发电机组（滑动轴承、减速齿轮、调速系统）",
+      "features": "具备优异的氧化安定性和抗乳化性",
+      "notes": ""
+    },
+    {
+      "series": "防锈汽轮机油",
+      "product_cn": "朗麦 L-TSA 46 防锈汽轮机油",
+      "packaging": "170kg",
+      "industry": "电力",
+      "application_site": "蒸汽轮机、燃气轮机、水轮发电机组（滑动轴承、减速齿轮、调速系统）",
+      "features": "具备优异的氧化安定性和抗乳化性",
+      "notes": ""
+    },
+    {
+      "series": "防锈汽轮机油",
+      "product_cn": "朗麦 L-TSA 68 防锈汽轮机油",
+      "packaging": "170kg",
+      "industry": "电力",
+      "application_site": "蒸汽轮机、燃气轮机、水轮发电机组（滑动轴承、减速齿轮、调速系统）",
+      "features": "具备优异的氧化安定性和抗乳化性",
+      "notes": ""
+    },
+    {
+      "series": "气柜密封油",
+      "product_cn": "Lubemater AIP-10 气柜密封油",
+      "packaging": "170kg",
+      "industry": "冶金、城市煤气、石油化工、焦化等涉及气体储存与输配的行业",
+      "application_site": "活塞油沟、侧板与滑板之间的间隙、底部油槽及循环系统",
+      "features": "卓越的抗乳化性与分水性能\n良好的粘温特性\n优异的氧化安定性\n良好的防锈防腐性能\n适宜的粘度与较低的凝点",
+      "notes": ""
     }
   ]
 }
