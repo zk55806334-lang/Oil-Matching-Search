@@ -3007,9 +3007,11 @@
       "application_site": "高精度、敏感元件、特殊环境设等对油品清洁度和部件敏感性有严苛要求的液压系统",
       "features": "无灰/无锌配方，避免损坏对锌敏感的部件（如铜合金），减少油泥生成，保持系统清洁\n优良的过滤性与抗乳化性：能迅速与水分离，有效防止过滤系统堵塞",
       "notes": "不含ZDDP的无灰/无锌配方",
-      "vi": "103",
+      "kv40": "44.72",
+      "kv100": "7.136",
+      "vi": "113",
       "pour_point": "-36",
-      "flash_point": "215"
+      "flash_point": "230"
     },
     {
       "series": "CKC工业齿轮油",
@@ -3037,7 +3039,7 @@
       "kv40": "154.8",
       "vi": "95",
       "pour_point": "-12",
-      "flash_point": "205",
+      "flash_point": "230",
       "copper_corrosion": "1b",
       "rust_b": "无锈"
     },
@@ -3052,7 +3054,7 @@
       "kv40": "226.6",
       "vi": "95",
       "pour_point": "-12",
-      "flash_point": "215",
+      "flash_point": "230",
       "copper_corrosion": "1b",
       "rust_b": "无锈"
     },
@@ -3082,7 +3084,7 @@
       "kv40": "446.7",
       "vi": "95",
       "pour_point": "-9",
-      "flash_point": "230",
+      "flash_point": "235",
       "copper_corrosion": "1b",
       "rust_b": "无锈"
     },
@@ -3097,7 +3099,7 @@
       "kv40": "665",
       "vi": "98",
       "pour_point": "-6",
-      "flash_point": "236",
+      "flash_point": "240",
       "copper_corrosion": "1b",
       "rust_b": "无锈"
     },
@@ -3112,7 +3114,7 @@
       "kv40": "150",
       "vi": "103",
       "pour_point": "-30",
-      "flash_point": "240",
+      "flash_point": "235",
       "copper_corrosion": "1b",
       "rust_b": "无锈",
       "weld_load": "2453"
@@ -3128,7 +3130,7 @@
       "kv40": "221.8",
       "vi": "101",
       "pour_point": "-24",
-      "flash_point": "255",
+      "flash_point": "240",
       "copper_corrosion": "1b",
       "rust_b": "无锈",
       "weld_load": "3090"
@@ -3144,7 +3146,7 @@
       "kv40": "330.6",
       "vi": "97",
       "pour_point": "-21",
-      "flash_point": "260",
+      "flash_point": "245",
       "copper_corrosion": "1b",
       "rust_b": "无锈",
       "weld_load": "3090"
@@ -3160,7 +3162,7 @@
       "kv40": "465.6",
       "vi": "100",
       "pour_point": "-21",
-      "flash_point": "265",
+      "flash_point": "250",
       "copper_corrosion": "1b",
       "rust_b": "无锈",
       "weld_load": "3090"
@@ -3176,7 +3178,7 @@
       "kv40": "692.6",
       "vi": "106",
       "pour_point": "-21",
-      "flash_point": "270",
+      "flash_point": "260",
       "copper_corrosion": "1b",
       "rust_b": "无锈",
       "weld_load": "3090"
