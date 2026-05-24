@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-23-v1",
-  "updatedAt": "2026-05-23",
+  "version": "2026-05-24-v1",
+  "updatedAt": "2026-05-24",
   "versionNote": "数据最后更新时间2026.05.22 22:54",
   "totalProducts": 224,
   "products": [
@@ -4044,7 +4044,7 @@
   "appUpdate": {
     "latestVersion": "1.0.2",
     "updateNotes": "搜索匹配逻辑优化\n支持跨字段自由组合搜索\n搜索结果关键词高亮",
-    "apkUrl": "https://github.com/zk55806334-lang/Oil-Matching-Search/releases/download/v1.0.2/RunmeiMatching.apk",
+    "apkUrl": "https://zk55806334-lang.github.io/Oil-Matching-Search/RunmeiMatching.apk",
     "forceUpdate": false
   }
 }
