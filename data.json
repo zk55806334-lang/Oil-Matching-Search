@@ -4042,8 +4042,8 @@
     }
   ],
   "appUpdate": {
-    "latestVersion": "1.0.7",
-    "updateNotes": "修复发布页点击无效bug",
+    "latestVersion": "1.0.8",
+    "updateNotes": "修复粘度计算公式的bug",
     "apkUrl": "https://kaiz1995.github.io/Oil-Matching-Search/RunmeiMatching.apk",
     "forceUpdate": false
   },
@@ -4075,6 +4075,10 @@
     {
       "version": "1.0.7",
       "notes": "修复发布页点击无效bug"
+    },
+    {
+      "version": "1.0.8",
+      "notes": "修复粘度计算公式的bug"
     }
   ],
   "releasePages": {
