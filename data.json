@@ -4077,9 +4077,19 @@
     {
       "version": "1.0.9",
       "notes": "修复版本号显示和更新检测逻辑"
+    },
+    {
+      "version": "1.0.10",
+      "notes": "修复运动粘度计算器：支持任意二字段计算第三字段\n新增清空按钮，可一键清除所有输入"
     }
   ],
   "releasePages": {
     "下载地址": "https://wwamc.lanzouv.com/b01bjfoqfi\n密码:emec"
+  },
+  "appUpdate": {
+    "latestVersion": "1.0.10",
+    "updateNotes": "修复运动粘度计算器：支持任意二字段计算第三字段\n新增清空按钮，可一键清除所有输入",
+    "apkUrl": "https://kaiz1995.github.io/Oil-Matching-Search/RunmeiMatching.apk",
+    "forceUpdate": false
   }
 }
