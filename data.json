@@ -4042,8 +4042,8 @@
     }
   ],
   "appUpdate": {
-    "latestVersion": "1.1.1",
-    "updateNotes": "修复运动粘度计算公式：采用中国润滑油网分段经验公式替换ASTM查表法\n修复输入框无法删除的bug：改输入字段自动重算，改输出字段不覆盖",
+    "latestVersion": "1.1.2",
+    "updateNotes": "彻底修复更新通知不弹出的bug：冷却机制改为版本感知，新版本发布时始终弹出\n新增 localStorage 清除逻辑提升健壮性",
     "apkUrl": "https://kaiz1995.github.io/Oil-Matching-Search/RunmeiMatching.apk",
     "forceUpdate": false
   },
@@ -4095,6 +4095,10 @@
     {
       "version": "1.1.1",
       "notes": "修复运动粘度计算公式：采用中国润滑油网分段经验公式替换ASTM查表法\n修复输入框无法删除的bug：改输入字段自动重算，改输出字段不覆盖"
+    },
+    {
+      "version": "1.1.2",
+      "notes": "彻底修复更新通知不弹出的bug：冷却机制改为版本感知，新版本发布时始终弹出\n新增 localStorage 清除逻辑提升健壮性"
     }
   ],
   "releasePages": {
