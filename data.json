@@ -1,8 +1,8 @@
 {
   "version": "2026-05-28-v1",
   "updatedAt": "2026-05-28",
-  "versionNote": "数据最后更新时间2026.05.25 22:54",
-  "totalProducts": 237,
+  "versionNote": "数据更新时间2026.05.28 9:33（更新美孚液压油产品数据）",
+  "totalProducts": 244,
   "products": [
     {
       "brand": "壳牌/Shell",
@@ -1459,7 +1459,7 @@
     {
       "brand": "美孚/Mobil",
       "category": "液压油",
-      "product_cn": "美孚DTE 10 超凡™ 系列",
+      "product_cn": "美孚DTE 10 超凡 系列",
       "product_en": "Mobil DTE 10 Excel™ Series",
       "viscosity": "15, 32, 46, 68, 100, 150",
       "source": "PAO+无锌，主打“节能”与“保持清洁”。",
@@ -1471,11 +1471,35 @@
     {
       "brand": "美孚/Mobil",
       "category": "液压油",
+      "product_cn": "美孚 DTE 10 超凡 32",
+      "product_en": "",
+      "viscosity": "32",
+      "source": "PAO+无锌，主打“节能”与“保持清洁”。",
+      "runmei": "Lubemater XV 32 低温液压油",
+      "application": "PAO",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "美孚/Mobil",
+      "category": "液压油",
+      "product_cn": "美孚 DTE 10 超凡 46",
+      "product_en": "",
+      "viscosity": "46",
+      "source": "PAO+无锌，主打“节能”与“保持清洁”。",
+      "runmei": "Lubemater XV 46 低温液压油",
+      "application": "PAO",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "美孚/Mobil",
+      "category": "液压油",
       "product_cn": "美孚 DTE 超凡系列",
       "product_en": "Mobil DTE Excel™ Series",
       "viscosity": "46, 68, 100",
       "source": "矿物型，无灰抗磨液压油，粘度指数97，工业液压系统的“万金油”，广泛用于含有齿轮和轴承的高载荷液压系统",
-      "runmei": "L-HMS 32/46/68/100无灰抗磨液压油",
+      "runmei": "L-HMS 32/46/68无灰抗磨液压油",
       "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1486,9 +1510,45 @@
       "product_cn": "美孚 DTE 20 系列",
       "product_en": "Mobil DTE 20 Series)",
       "viscosity": "15, 32, 46, 68, 100, 150",
-      "source": "矿物基础油，粘度指数98",
+      "source": "通用型抗磨液压油，二类矿物基础油，粘度指数98左右；我司对应产品粘度指数110左右",
       "runmei": "HS-M 32/46/68 抗磨液压油",
       "application": "矿物油",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "美孚/Mobil",
+      "category": "液压油",
+      "product_cn": "美孚 DTE 24",
+      "product_en": "",
+      "viscosity": "32",
+      "source": "通用型抗磨液压油，二类矿物基础油，粘度指数98左右；我司对应产品粘度指数110左右",
+      "runmei": "HS-M 32 抗磨液压油",
+      "application": "",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "美孚/Mobil",
+      "category": "液压油",
+      "product_cn": "美孚 DTE 25",
+      "product_en": "",
+      "viscosity": "46",
+      "source": "通用型抗磨液压油，二类矿物基础油，粘度指数98左右；我司对应产品粘度指数110左右",
+      "runmei": "HS-M 46 抗磨液压油",
+      "application": "",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "美孚/Mobil",
+      "category": "液压油",
+      "product_cn": "美孚 DTE 26",
+      "product_en": "",
+      "viscosity": "68",
+      "source": "通用型抗磨液压油，二类矿物基础油，粘度指数98左右；我司对应产品粘度指数110左右",
+      "runmei": "HS-M 68 抗磨液压油",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
@@ -1501,6 +1561,30 @@
       "source": "矿物基础油，粘度指数150，宽温区/极高粘度指数系列 (适用于户外/极大温差)",
       "runmei": "L-HV 32/46/68 低温抗磨液压油",
       "application": "矿物油",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "美孚/Mobil",
+      "category": "液压油",
+      "product_cn": "优力威 N 32",
+      "product_en": "Univis N 32",
+      "viscosity": "32",
+      "source": "矿物基础油，粘度指数150，宽温区/极高粘度指数系列 (适用于户外/极大温差)",
+      "runmei": "L-HV 32 低温抗磨液压油",
+      "application": "",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "美孚/Mobil",
+      "category": "液压油",
+      "product_cn": "优力威 N 46",
+      "product_en": "Univis N 46",
+      "viscosity": "46",
+      "source": "矿物基础油，粘度指数150，宽温区/极高粘度指数系列 (适用于户外/极大温差)",
+      "runmei": "L-HV 46 低温抗磨液压油",
+      "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
     },
