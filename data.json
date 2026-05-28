@@ -1,8 +1,8 @@
 {
-  "version": "2026-05-26-v1",
-  "updatedAt": "2026-05-26",
+  "version": "2026-05-28-v1",
+  "updatedAt": "2026-05-28",
   "versionNote": "数据最后更新时间2026.05.25 22:54",
-  "totalProducts": 236,
+  "totalProducts": 237,
   "products": [
     {
       "brand": "壳牌/Shell",
@@ -1451,7 +1451,7 @@
       "product_en": "Mobil SHC™ 500 Series",
       "viscosity": "32, 46, 68, 100",
       "source": "PAO型，适用温度范围极广，具备可控的低温泵送性和出色的剪切稳定性。抗腐蚀保护能力极强。",
-      "runmei": "Lubemater SHP EP 460/680 工业齿轮油",
+      "runmei": "Lubemater XV 32/46 低温液压油",
       "application": "PAO",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1475,7 +1475,7 @@
       "product_en": "Mobil DTE Excel™ Series",
       "viscosity": "46, 68, 100",
       "source": "矿物型，无灰抗磨液压油，粘度指数97，工业液压系统的“万金油”，广泛用于含有齿轮和轴承的高载荷液压系统",
-      "runmei": "Lubemater XV 32/46 低温液压油",
+      "runmei": "L-HMS 32/46/68/100无灰抗磨液压油",
       "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1487,7 +1487,7 @@
       "product_en": "Mobil DTE 20 Series)",
       "viscosity": "15, 32, 46, 68, 100, 150",
       "source": "矿物基础油，粘度指数98",
-      "runmei": "HMS 32/46 无灰抗磨液压油",
+      "runmei": "HS-M 32/46/68 抗磨液压油",
       "application": "矿物油",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1499,7 +1499,7 @@
       "product_en": "",
       "viscosity": "32，46",
       "source": "矿物基础油，粘度指数150，宽温区/极高粘度指数系列 (适用于户外/极大温差)",
-      "runmei": "Lubemater L-HM 32/46/68 长寿命抗磨液压油",
+      "runmei": "L-HV 32/46/68 低温抗磨液压油",
       "application": "矿物油",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1511,7 +1511,7 @@
       "product_en": "",
       "viscosity": "13,26",
       "source": "超高粘度指数（VI高达370-400+）和极低的倾点（-60℃）、特种极低温液压油",
-      "runmei": "L-HV 32/46/68 低温抗磨液压油",
+      "runmei": "",
       "application": "矿物油，极高粘度指数 (HVI)，低温流动性优于 N 系列。",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1523,7 +1523,7 @@
       "product_en": "",
       "viscosity": "32, 46, 68, 100",
       "source": "矿物型，标准款抗磨液压油",
-      "runmei": "",
+      "runmei": "L-HM 32/46/68 抗磨液压油",
       "application": "矿物油",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1535,7 +1535,7 @@
       "product_en": "Mobil Pyrotec HFD 46",
       "viscosity": "46",
       "source": "三芸基磷酸酯，",
-      "runmei": "HS-M 32/46/68 抗磨液压油",
+      "runmei": "HFDR 46 磷酸酯抗磨液压油",
       "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1547,7 +1547,7 @@
       "product_en": "Mobil Nyvac FR 200D",
       "viscosity": "46",
       "source": "水 - 乙二醇型抗燃液压油",
-      "runmei": "HFDR 46 磷酸酯抗磨液压油",
+      "runmei": "HFW 46 水-乙二醇抗燃液压液",
       "application": "",
       "compSpecs": {},
       "runmeiSpecs": {}
@@ -1692,6 +1692,18 @@
       "viscosity": "460",
       "source": "合成烃全合成；运动粘度460cSt@40°C；VI~160+；用于齿轮箱/轮毂轴承润滑，长寿命",
       "runmei": "Lubemater SHC GI 460 全合成工业齿轮油",
+      "application": "PAO齿轮油，矿用电动轮",
+      "compSpecs": {},
+      "runmeiSpecs": {}
+    },
+    {
+      "brand": "壳牌/Shell",
+      "category": "齿轮油",
+      "product_cn": "壳牌可耐压S4 Wheel 680",
+      "product_en": "",
+      "viscosity": "680",
+      "source": "合成烃全合成；运动粘度680cSt@40°C；VI~160+；用于齿轮箱/轮毂轴承润滑，长寿命",
+      "runmei": "Lubemater SHC GI 680 全合成工业齿轮油",
       "application": "PAO齿轮油，矿用电动轮",
       "compSpecs": {},
       "runmeiSpecs": {}
